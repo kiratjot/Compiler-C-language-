@@ -1,0 +1,10 @@
+﻿  scanner.c
+  platy.c
+  parser.c
+c:\users\gurkiratsingh\documents\visual studio 2015\projects\compilers\parser\parser\parser\parser.c(66): warning C4013: 'syn_printe' undefined; assuming extern returning int
+c:\users\gurkiratsingh\documents\visual studio 2015\projects\compilers\parser\parser\parser\parser.c(160): warning C4013: 'exit' undefined; assuming extern returning int
+  buffer.c
+c:\users\gurkiratsingh\documents\visual studio 2015\projects\compilers\parser\parser\parser\buffer.c(301): warning C4098: 'b_free': 'void' function returning a value
+  Generating Code...
+  parser.vcxproj -> C:\Users\gurkiratsingh\Documents\Visual Studio 2015\Projects\Compilers\parser\parser\Debug\parser.exe
+  parser.vcxproj -> C:\Users\gurkiratsingh\Documents\Visual Studio 2015\Projects\Compilers\parser\parser\Debug\parser.pdb (Full PDB)

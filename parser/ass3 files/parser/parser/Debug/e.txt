@@ -1,0 +1,9 @@
+PLATYPUS{
+  WHILE FALSE(a == b * c)REPEAT{
+   IF TRUE()THEN{a=b<>c;} ELSE ELSE{};
+    WHILE TRUE(goody$ <> "a")REPEAT{};
+    a = (a  badLong89$) + (good badLong89) * (good 7.);
+   };
+
+
+}
